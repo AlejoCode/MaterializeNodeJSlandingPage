@@ -2,8 +2,8 @@ const path = require('path')
 const express = require('express')
 const app = express(),
             DIST_DIR = __dirname,
-            HTML_FILE_INDEX = path.join(DIST_DIR, './dist/index.html'),
-            HTML_FILE_SCORT = path.join(DIST_DIR, './dist/scort.html')
+            HTML_FILE_INDEX = path.join(DIST_DIR, './index.html'),
+            HTML_FILE_SCORT = path.join(DIST_DIR, './scort.html')
 
             
 app.use(express.static(DIST_DIR))
