@@ -1,7 +1,7 @@
 {
-  "name": "restaurantapp",
+  "name": "fenixapp",
   "version": "1.0.0",
-  "description": "Restaurant app page made in nodeJS",
+  "description": "Fitness app page made in nodeJS",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlejoCode/restaurantNodeJSApp.git"
+    "url": "git+https://github.com/AlejoCode/fitnessNodeJSApp.git"
   },
   "author": "AlejoCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlejoCode/restaurantNodeJSApp/issues"
+    "url": "https://github.com/AlejoCode/fitnessNodeJSApp/issues"
   },
-  "homepage": "https://github.com/AlejoCode/restaurantNodeJSApp#readme",
+  "homepage": "https://github.com/AlejoCode/fitnessNodeJSApp#readme",
   "devDependencies": {
     "webpack": "^4.41.3",
     "webpack-cli": "^3.3.10"
